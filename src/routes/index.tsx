@@ -4,7 +4,7 @@ import Dashboard from '../pages/Dashboard';
 
 const Routes = () => (
   <Switch>
-    <Route path="/" exact component={Dashboard} />
+    <Route path='/' exact component={Dashboard} />
   </Switch>
 );
 
